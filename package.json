@@ -1,0 +1,24 @@
+{
+  "name": "leaflet.printage",
+  "version": "1.0.1",
+  "homepage": "https://github.com/fixelr-innovative/Leaflet.printage",
+  "description": "A leaflet plugin that allows users to receive a map as an Big image and donwload it.",
+  "main": "src/Leaflet.Printage.js",
+  "author": "Raj Narayan Gupta <rajkumar00999.rk@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fixelr-innovative/Leaflet.Printage.git"
+  },
+  "keywords": [
+    "leaflet",
+    "print",
+    "plugin",
+    "image",
+    "printage"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "leaflet": "^1.0.0"
+  }
+}
